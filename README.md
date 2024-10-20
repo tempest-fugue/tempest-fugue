@@ -21,7 +21,7 @@ I am a data scientist with a passion for programming, machine learning, and data
 
 In my free time I work on and review code for the [Vesuvius Challenge](https://scrollprize.org/) and its attempts to unroll/read 2,000 year old scrolls, I work on an Arthurian horror video game pet-project using Blender and Unreal Engine, and explore how [digital methods and technologies are changing and challenging medieval scholarship](https://codingcodices.wordpress.com/).
 
-Projects
+## Projects
 Graduated my Data Science bootcamp with TripleTen 2024, with included applied projects.
 
 Skills and Expertise
@@ -35,7 +35,7 @@ Deep Learning: Vertex AI, Tensorflow/Keras, PyTorch
 
 Data Visualization: Streamlit, Seaborn, Matplotlib, Scikit-learn, Plotly
 
-Education
+## Education
 Data Science Bootcamp | TripleTen (10 months intensive) | 2024
 
 MA in English | Oregon State University | 2022
