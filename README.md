@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,17 +20,19 @@ I am a data scientist with a passion for programming, machine learning, and data
 
 In my free time I work on and review code for the [Vesuvius Challenge](https://scrollprize.org/) and its attempts to unroll/read 2,000 year old scrolls, I work on an Arthurian horror video game pet-project using Blender and Unreal Engine, and explore how [digital methods and technologies are changing and challenging medieval scholarship](https://codingcodices.wordpress.com/).
 
+🔭 I’m currently researching spectral and hyperspectral imaging for computer vision applications.
+
 ## Projects
 Graduated my Data Science bootcamp with TripleTen 2024, with included applied projects.
 
 Skills and Expertise
-Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
+Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), R, SQL, HTML, CSS
 
 Machine Learning: Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering), Reinforcement Learning, Natural Language Processing (NLTK, spaCy), XGBoost, LightGBM
 
 Data Science Expertise: Computer Vision, Time Series Analysis, Anomaly Detection, A/B Testing, Experimental Design, Feature Engineering, Data Preprocessing, Model Evaluation and Hyperparameter Tuning
 
-Deep Learning: Vertex AI, Tensorflow/Keras, PyTorch
+Deep Learning: Tensorflow/Keras, PyTorch
 
 Data Visualization: Streamlit, Seaborn, Matplotlib, Scikit-learn, Plotly
 
